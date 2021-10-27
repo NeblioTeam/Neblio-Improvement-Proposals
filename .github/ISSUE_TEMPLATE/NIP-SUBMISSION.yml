@@ -3,7 +3,7 @@ description: NIP Submission Template
 title: "[New NIP]: NIP Name Here"
 labels: []
 assignees:
-  - nebliodev
+  - NeblioTeam
 body:
   - type: markdown
     attributes:
