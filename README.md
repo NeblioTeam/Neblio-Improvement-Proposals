@@ -12,8 +12,8 @@ To learn more about proposals and how to vote, see here (LINK NEEDED).
 
 ## How to Submit a Proposal
 
-1. Proposals must be submitted via a Pull Request to this repository using the provided Pull Request Template. Approved proposals will be merged into the `proposals.json` file. 
-2. Proposals will be discussed in the comments of the Pull Request before approval for voting. 
+1. Proposals must be submitted via an [Issue](https://github.com/NeblioTeam/Neblio-Improvement-Proposals/issues) to this repository using the provided Issue Template. Approved Issues will be added into the `proposals.json` file. 
+2. Proposals will be discussed in the comments of the Issue before approval for voting. 
 3. Proposals will be approved for voting by default, unless they are incorrectly formatted, outlandish, or impossible. 
 4. Proposals are not only for Neblio Core, but for all aspects of the Neblio Network, including (but not limited to) other Neblio software and services, promotions, campaigns, etc.
 5. Proposals, once approved, will have a block range assigned for voting and will be visible on the [Neblio Block Explorer](https://explorer.nebl.io/proposals).
@@ -25,9 +25,9 @@ To learn more about proposals and how to vote, see here (LINK NEEDED).
 
 ### Proposal Format
 
-Proposals must be submitted using the Pull Request Template. Proposals in the incorrect format or that are incomplete are subject to deletion.
+Proposals must be submitted using the Issue Template. Proposals in the incorrect format or that are incomplete are subject to deletion.
 
-Pull Request Template Preview:
+Issue Template Preview:
 ### Neblio Improvement Proposal Submission Template
 
 #### Proposal Name
