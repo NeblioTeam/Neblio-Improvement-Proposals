@@ -12,7 +12,7 @@ To learn more about proposals and how to vote, see here (LINK NEEDED).
 
 ## How to Submit a Proposal
 
-1. Proposals must be submitted via an [Issue (Click Here to Get Started)](https://github.com/NeblioTeam/Neblio-Improvement-Proposals/issues/new?assignees=nebliodev&labels=&template=NIP-SUBMISSION.yml&title=%5BNew+NIP%5D%3A+NIP+Name+Here) to this repository using the provided Issue Template. Approved Issues will be added into the `proposals.json` file. 
+1. Proposals must be submitted via an [Issue (Click Here to Get Started)](https://github.com/NeblioTeam/Neblio-Improvement-Proposals/issues/new?assignees=NeblioTeam&labels=&template=NIP-SUBMISSION.yml&title=%5BNew+NIP%5D%3A+NIP+Name+Here) to this repository using the provided Issue Template. Approved Issues will be added into the `proposals.json` file. 
 2. Proposals will be discussed in the comments of the Issue before approval for voting. 
 3. Proposals will be approved for voting by default, unless they are incorrectly formatted, outlandish, or impossible. 
 4. Proposals are not only for Neblio Core, but for all aspects of the Neblio Network, including (but not limited to) other Neblio software and services, promotions, campaigns, etc.
