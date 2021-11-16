@@ -16,7 +16,7 @@ To learn more about proposals and how to vote, see [this blog post](https://medi
 2. Proposals will be discussed in the comments of the Issue before approval for voting. 
 3. Proposals will be approved for voting by default, unless they are incorrectly formatted, outlandish, or impossible. 
 4. Proposals are not only for Neblio Core, but for all aspects of the Neblio Network, including (but not limited to) other Neblio software and services, promotions, campaigns, etc.
-5. Proposals, once approved, will have a block range assigned for voting and will be visible on the [Neblio Block Explorer](https://explorer.nebl.io/proposals).
+5. Proposals, once approved, will have a block range assigned for voting and will be visible on the [Neblio Block Explorer](https://explorer.nebl.io/voting).
 6. Proposals should be promoted by the submitter. You are responsible for explaining your proposal and encouraging stakers to vote for it. 
 7. Proposals that fail their vote can be edited and resubmitted as a new proposal (The exact same proposal should NOT be submitted twice).
 8. Proposals will shape the Neblio Network roadmap, however the Neblio Core Team will not implement all proposals that have a successful vote. Successful proposals that are outside of our Team's areas of expertise, or are too costly for us to implement, will be given `Help Wanted` and/or `Funding Needed` tags on the roadmap. These proposals will need to be implemented by developers outside of the Neblio Core Team and may include bounty programs to encourage that development. 
