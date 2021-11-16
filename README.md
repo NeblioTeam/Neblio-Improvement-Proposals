@@ -8,7 +8,7 @@ Approved proposals can be voted on by operators of the Neblio Network via stakin
 
 Neblio Network Operators (stakers) vote on proposals. **Proposals must have at least 20% vote participation AND receive at least 50% `YEA` votes to be successful.**
 
-To learn more about proposals and how to vote, see here (LINK NEEDED). 
+To learn more about proposals and how to vote, see [this blog post](https://medium.com/neblio-blog/announcing-neblio-improvement-proposals-neblio-block-voting-743f7c1a48a).
 
 ## How to Submit a Proposal
 
