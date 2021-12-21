@@ -7,5 +7,14 @@
     "start_block": 2975988,
     "end_block": 3400000,
     "network": "testnet"
+  },
+  {
+    "proposal_id": 8,
+    "proposal_name": "Introducing: NeblioX, Rebuilding Neblio Technology Using Latest Bitcoin Core",
+    "proposal_desc": "This proposal is for the creation of NeblioX, a next-generation Neblio node and wallet based on the latest Bitcoin Core. If successful, NeblioX would allow Sewit, Lightning, Taproot and more features of Bitcoin Core to allow development of advanced Decentralized Exchanges (DeX's), instant P2P trading, along with new Real-time Apps, to be built on top of Neblio, such as messaging apps, instant tipping, streaming funds and/or assets, and more. ",
+    "proposal_submitter": "NeblioTeam",
+    "start_block": 3647300,
+    "end_block": 3733700,
+    "network": "mainnet"
   }
 ]
