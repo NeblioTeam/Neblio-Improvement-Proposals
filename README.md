@@ -6,6 +6,8 @@ This repository contains all submitted Neblio Improvement Proposals (NIPs) for t
 
 NIPs are driven by the Neblio community, node operators, developers, and partners to shape the Neblio Blockchain Network Roadmap.
 
+[Click Here to See the Neblio Roadmap Made Up of NIPs](https://github.com/NeblioTeam/Neblio-Improvement-Proposals/projects/1)
+
 Approved proposals can be voted on by operators of the Neblio Network via staking using Neblio Core v3.4.0 or higher. 
 
 Neblio Network Operators (stakers) vote on proposals. **Proposals must have at least 20% vote participation AND receive at least 50% `YEA` votes to be successful.**
