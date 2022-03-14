@@ -17,7 +17,7 @@ To learn more about proposals and how to vote, see [this blog post](https://medi
 ## How to Submit a Proposal
 
 1. Proposals must be submitted via an [Issue (Click Here to Get Started)](https://github.com/NeblioTeam/Neblio-Improvement-Proposals/issues/new?assignees=NeblioTeam&labels=&template=NIP-SUBMISSION.yml&title=%5BNew+NIP%5D%3A+NIP+Name+Here) in this repository using the provided Issue Template. Approved Issues will be added into the `proposals.json` file. 
-2. Proposals will be discussed in the comments of the Issue before approval for voting. 
+2. Proposals will be discussed in the comments of the Issue before approval for voting. At any time, the submitter can call for a vote to be scheduled.
 3. Proposals should be S.M.A.R.T.:
    - **Specific**: Direct and detailed
    - **Measurable**: Quantifiable to track progress and/or success
