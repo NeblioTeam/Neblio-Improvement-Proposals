@@ -16,5 +16,14 @@
     "start_block": 3647300,
     "end_block": 3733700,
     "network": "mainnet"
+  },
+  {
+    "proposal_id": 10,
+    "proposal_name": "Split Cold Staking Rewards: 20% to Staking Address - 80% to Owner Address",
+    "proposal_desc": "This proposal is to split the cold staking rewards between the staker and owner. 20% will go to the staking address that is actively doing the staking (such as a cold staking service). 80% will go to the owner address that owns the NEBL being that is being staked (the address the delegated the NEBL). Currently, before this proposal, 100% of the cold staking rewards go to the owner address.",
+    "proposal_submitter": "MarkSamson",
+    "start_block": 3887750,
+    "end_block": 3972455,
+    "network": "mainnet"
   }
 ]
