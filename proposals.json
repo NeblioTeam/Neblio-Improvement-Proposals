@@ -25,5 +25,14 @@
     "start_block": 3887750,
     "end_block": 3972455,
     "network": "mainnet"
+  },
+  {
+    "proposal_id": 11,
+    "proposal_name": "Proposal written by the Neblio Core Dev Team to develop an ERC20 bridge for Neblio",
+    "proposal_desc": "The community of Neblio has been requesting a BNB Chain bridge for a while, and we decided to directly develop it and we have added it to our Roadmap as a priority for the current Q3. Hence, the core NEBL team is currently working on the development of a BNB Chain -previously known as BSC- bridge to bring Neblio closer to the Binance ecosystem by releasing $NEBL on the BNB Chain (Wrapped $NEBL), allowing further decentralization with a potential volume increase in DEX's, as well as allowing NEBL holders to earn rewards through liquidity providing, amongst others. Given the fact that the ETH Merge is set to occur around September 15th, with it shifting from PoW to PoS, we would like to enquire the Neblio community in the present proposal about releasing an ETH bridge with a Wrapped Neblio token on the ETH network for it to be tradable on ETH (Uniswap), and in anticipation to increase future cross-chain interoperability between the Neblio blockchain and BNB Chain & ERC20 on any future developments.",
+    "proposal_submitter": "NeblioTeam",
+    "start_block": 4316000,
+    "end_block": 4344800,
+    "network": "mainnet"
   }
 ]
