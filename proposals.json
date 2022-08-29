@@ -32,7 +32,7 @@
     "proposal_desc": "This proposal is to support the development of a ERC20 bridge for Neblio.",
     "proposal_submitter": "NeblioTeam",
     "start_block": 4320000,
-    "end_block": 4344800,
+    "end_block": 4348800,
     "network": "mainnet"
   }
 ]
