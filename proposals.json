@@ -40,8 +40,8 @@
     "proposal_name": "Neblio 2.0 Release",
     "proposal_desc": "Proposal by the Neblio Core Dev Team to release Neblio 2.0: a multipurpose hard fork of Neblio to upgrade it, featuring a new staking rewarding system, burn system of transaction fees, and a new economic model including a redenomination plan.",
     "proposal_submitter": "NeblioTeam",
-    "start_block": 4362663,
-    "end_block": 4382823,
+    "start_block": 4365451,
+    "end_block": 4385611,
     "network": "mainnet"
   }
 ]
